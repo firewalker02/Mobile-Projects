@@ -1,0 +1,2 @@
+module Labtest2 {
+}
